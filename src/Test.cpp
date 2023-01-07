@@ -8,7 +8,6 @@ int main(){
 	cout<<*k1;
 	cout<<*k2;
 	cout<<*k3;
-	cout<<*k4;
 	delete k1;
 	delete k2;
 	delete k3;
