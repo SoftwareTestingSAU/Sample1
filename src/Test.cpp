@@ -1,7 +1,7 @@
 #include "Kisi.hpp"
 
 int main(){
-	Kisi *k1 = new Kisi("Ahmet",25,178);
+	Kisi *k1 = new Kisi("Murat",25,178);
 	Kisi *k2 = new Kisi("Meltem",32,150);
 	cout<<*k1;
 	cout<<*k2;
